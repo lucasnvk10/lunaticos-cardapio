@@ -1,0 +1,3 @@
+TOKEN_ENCRYPTION_KEY=base64-de-32-bytes
+PAGBANK_TOKEN=token-do-sandbox
+PAGBANK_WEBHOOK_PUBLIC_KEY=chave-publica-base64

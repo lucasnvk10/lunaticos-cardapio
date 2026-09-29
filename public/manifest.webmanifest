@@ -1,0 +1,10 @@
+{
+  "name": "Lunáticos — Eventos e fichas",
+  "short_name": "Lunáticos",
+  "start_url": "/equipe",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#ff5b00",
+  "icons": [{ "src": "/brand/lunaticos-mark.png", "sizes": "1080x1080", "type": "image/png" }]
+}
